@@ -4,7 +4,7 @@ Rails Engine is a JSON API which exposes the SalesEngine data schema.
 
 ### Setup
 
- * ```git clone git@github.com:bradgreen3/rails_engine.git```
+ * ```git clone git@github.com:MDes41/rails_engine.git```
 
  * Bundle gem file: ```bundle```
 
